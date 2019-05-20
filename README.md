@@ -1,0 +1,2 @@
+# GitIdeaTest
+test for idea
